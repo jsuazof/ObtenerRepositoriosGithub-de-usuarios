@@ -12,4 +12,6 @@ form.addEventListener("submit" , (e) =>{
         console.log(data)
     })
 
+    fetch (https://api.github.com/users/{user}/repos?page={pagina}&per_page={cantidad_repos}.)
+
 })
